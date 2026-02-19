@@ -246,9 +246,17 @@ Provide exact commands a judge can run.
 Example (replace with your real commands):
 
 ```text
-# install dependencies
-# run the app
-# open UI or run CLI
+# Install dependencies
+pip install -r requirements.txt
+
+# Add your HuggingFace token to a .env file
+echo "HF_TOKEN_KEY=your_hf_token_here" > .env
+
+# Run the app
+uvicorn app:app --reload
+
+# Open UI in browser
+http://localhost:8000
 ```
 
 ---
