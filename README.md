@@ -46,9 +46,9 @@ You may implement one feature or multiple. Partial implementations are acceptabl
 ---
 
 ## Participant Info (Required)
-- Full Name:
-- Email:
-- GitHub Username:
+- Full Name: Dagem Legesse
+- Email: dagemle@gmail.com
+- GitHub Username: dageml
 
 ---
 
@@ -157,7 +157,7 @@ bash scripts/sanity_check.sh
 
 ### 3) Video Walkthrough Link (Required)
 
-Add your video link here:
+Add your video link here: https://www.loom.com/share/980416d69b32419787226f7be76459e6
 
 ## Video Walkthrough
 
