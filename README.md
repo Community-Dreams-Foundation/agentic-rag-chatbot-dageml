@@ -158,7 +158,7 @@ bash scripts/sanity_check.sh
 ### 3) Video Walkthrough Link (Required)
 
 Add your video link here: https://www.loom.com/share/980416d69b32419787226f7be76459e6
-
+https://www.loom.com/share/88df21c80679418c95b62fe7418ebb97
 ## Video Walkthrough
 
 PASTE YOUR LINK HERE
